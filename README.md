@@ -16,3 +16,12 @@ Sensores:
 * Dirección y velocidad del viento
 * Pecipitación
 
+
+# # Leer la base de datos
+
+Hay un iPython Notebook `readDatabase.ipynb` para leer la DB.
+
+Próximamente construiremos una página web que muestre los datos.
+
+De todas maneras se pueden ver en [Weaather Underground](https://www.wunderground.com/personal-weather-station/dashboard?ID=IBARILOC3&cm_ven=localwx_pwsdash)
+
