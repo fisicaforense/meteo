@@ -17,7 +17,7 @@ Sensores:
 * Pecipitación
 
 
-# # Leer la base de datos
+## Leer la base de datos
 
 Hay un iPython Notebook `readDatabase.ipynb` para leer la DB.
 
