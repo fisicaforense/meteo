@@ -1,6 +1,6 @@
 # Readme
 
-Este repositorio contiene los datos de la estación meteorológica ubicada en la seccional de guardaparques del Lago Gutierres en Bariloche. 
+Este repositorio contiene los datos de la estación meteorológica ubicada en la seccional de guardaparques del Lago Gutiérrez en Bariloche. 
 
 Coordenadas:  -41.179, -71.414
 
