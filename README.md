@@ -2,9 +2,9 @@ Este repositorio contiene los datos de la estación meteorológica ubicada en la
 
 Coordenadas:  -41.179, -71.414
 
-La base de datos se actualiza a diario a las 12:05 hs.
+La base de datos se actualizacada 2 hs.
 
-## Datos de la Estación:
+## Datos de la Estacin:
 
 __DAZA  DZ-WH1080__
 
