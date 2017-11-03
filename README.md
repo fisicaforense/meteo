@@ -2,7 +2,7 @@ Este repositorio contiene los datos de la estación meteorológica ubicada en la
 
 Coordenadas:  -41.179, -71.414
 
-La base de datos se actualizacada 2 hs.
+La base de datos se actualiza cada 2 hs.
 
 ## Datos de la Estacin:
 
